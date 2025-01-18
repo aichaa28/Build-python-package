@@ -30,7 +30,7 @@ jobs:
 
       - name: Build HTML
         run: | 
-          cd docs/
+          cd docs/source
           make html
       - name: Run ghp-import
         run: | 
