@@ -21,7 +21,7 @@ class TestStringOps(unittest.TestCase):
     
     def test_capitalize_words_failing(self):
         """Test the capitalize_words function."""
-        self.assertEqual(capitalize_words("summer"), "summer")
+        self.assertEqual(capitalize_words("summer"), "Summer")
 
 if __name__ == '__main__':
     unittest.main()
