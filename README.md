@@ -1,4 +1,4 @@
-# Package-Creation-Tutorial
+# Build-python-package
 
 This project showcases that I have created my own Python package. The goal was to demonstrate how to structure, develop, and publish a Python package following best practices.
 
